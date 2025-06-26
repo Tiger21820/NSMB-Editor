@@ -1,4 +1,4 @@
-NSMBe 5.2 SVN
+NSMBe 5.2 SVN!
 -----------------
 To run NSMBe:
 Windows: .NET Framework 2.0 or Mono
