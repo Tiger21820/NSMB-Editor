@@ -1,4 +1,4 @@
-NSMB Editor 5 is licensed under the GNU General Public License Version 3.
+NSMB Editor 5 is licensed under the GNU General Public License Version 3
 
 Note that the GPL places important restrictions on “derived works”, yet it
 does not provide a detailed definition of that term. To avoid
