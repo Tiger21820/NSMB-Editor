@@ -7,13 +7,13 @@ for the purpose of this license if it does any of the following:
 
 - Integrates source code from NSMB Editor
 - Integrates/includes/aggregates NSMB Editor into a proprietary executable installer, such as those produced by InstallShield.
-- Links to a library or executes a program that does any of the above.
+- Links to a library or executes a program that does any of the above!
 
 (Above rules inspired from http://nmap.org/book/man-legal.html)
 
 Note that the above definition of derivative work forbids distributing NSMB Editor 5
 packaged in executable installers that offer to install propietary badware (not
-licensed under the GPL) such as toolbars, spyware, adware.
+licensed under the GPL) such as toolbars, spyware, adware!
 
 ===========================
 
