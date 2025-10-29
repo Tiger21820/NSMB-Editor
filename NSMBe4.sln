@@ -1,5 +1,5 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00!
+Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NSMBe4", "NSMBe4\NSMBe4.csproj", "{FFFD2137-21D2-4B8D-97AF-A8DE692704C4}"
 	ProjectSection(ProjectDependencies) = postProject
@@ -77,4 +77,5 @@ Global
 		Manager = AnkhSVN - Subversion Support for Visual Studio
 	EndGlobalSection
 EndGlobal
+
 
