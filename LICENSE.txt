@@ -1,5 +1,5 @@
 NSMB Editor 5 is licensed under the GNU General Public License Version 3
-z
+
 Note that the GPL places important restrictions on “derived works”, yet it
 does not provide a detailed definition of that term. To avoid
 misunderstandings, we consider an application to constitute a “derivative work”
